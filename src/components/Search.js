@@ -1,3 +1,5 @@
+import './Search.css';
+
 function Search({ searchText, handleSearchTextChange, handleSearchSubmit }) {
     return (
         <form onSubmit={(e) => handleSearchSubmit(e)}>
