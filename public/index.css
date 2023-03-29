@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6 rem;
+}
+section{
+    padding: 7rem 0;
+}
+.container{
+    max-width: 1140px;
+    margin: auto;
+    padding: 0 15px;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
